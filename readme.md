@@ -4,10 +4,8 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=35h4n&theme=dracula" alt="35h4n" /></a> </p>
 
-<div> <a href="https://twitter.com/E5_H4N" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-<a href="https://github.com/35h4n" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-<a href="https://instagram.com/4.E5H4N" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-</div><h3 align="center">Connect with me:</h3>
+
+<h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/E5_H4N" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="E5_H4N" height="30" width="40" /></a><a href="https://fb.com/4.E5H4N" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="4.E5H4N" height="30" width="40" /></a><a href="https://instagram.com/4.E5H4N" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="4.E5H4N" height="30" width="40" /></a></p>
 
