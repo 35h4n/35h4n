@@ -46,13 +46,6 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/rust-plain.svg" alt="Rust" width="64" height="64"/>
 </p>
 
-<h3 align="center">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=35h4n&langs_count=8&theme=dracula" alt=35h4n />
-
-<p>&nbsp;<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=35h4n&show_icons=true&locale=en&theme=dracula" alt="35h4n" /></p>
-
-<p><img align="left" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=35h4n&theme=dracula" alt="35h4n" /></p>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
 <a href="https://github.com/35h4n">
